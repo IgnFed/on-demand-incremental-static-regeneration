@@ -3,7 +3,7 @@
 import { NextApiResponse, NextApiRequest } from "next"
 
 /**
- * @param {NextApiResponse} req 
+ * @param {NextApiRequest} req 
  * @param {NextApiResponse} res 
  */
 
